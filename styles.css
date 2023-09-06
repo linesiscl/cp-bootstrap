@@ -1,0 +1,30 @@
+:root{
+    --fonte: 'Heebo', sans-serif;
+    --cor: #F4F5F9;
+}
+
+body{
+    font-family: var(--fonte);
+}
+
+.fundo{
+    background-color: var(--cor);
+}
+
+.titulo{
+    color: #8f9092;
+    font-size: 35px;
+}
+
+.tamanho-img{
+    max-width: 300px;
+}
+
+.text-color{
+    color: #8f9092;
+}
+
+.tamanho-texto{
+    max-width: 300px;
+}
+
